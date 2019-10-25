@@ -10,8 +10,19 @@ footer {
 }
 footer .input-field input,
 button {
-border-color: #FFFFFF;
+    border-color: #FFFFFF;
 }
 .chip {
-font-style: italic;
+    font-style: italic;
+}
+/* ChatHistory styles */
+.collection {
+    margin-bottom:130px;
+    margin-top: -1px;
+}
+.message-date {
+    color: #585858;
+}
+body {
+    background: #EEEEEE;
 }
